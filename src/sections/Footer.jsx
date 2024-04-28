@@ -1,4 +1,4 @@
-const CustomerReviews = () => {
+const Footer = () => {
     return (
         <div>
             
@@ -6,4 +6,4 @@ const CustomerReviews = () => {
     );
 };
 
-export default CustomerReviews;
+export default Footer;
