@@ -46,7 +46,7 @@ export default {
 
       },
       animation: {
-        'bounce-right': 'bounce-right 1.5s linear infinite',
+        'bounce-right': 'bounce-right 1.5s linear infinite -0.75s',
       }
     },
   },
