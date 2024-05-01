@@ -3,7 +3,7 @@ import {footerLinks, socialMedia} from "../constants";
 
 const Footer = () => {
     return (
-        <footer className="flex max-lg:flex-col max-lg:gap-14 justify-between ">
+        <footer className="flex max-lg:flex-col max-lg:gap-14 justify-between max-container">
             <div>
                 <img src={footerLogo} alt="Footer Logo"/>
                 <p className="text-white max-w-sm mt-8">
