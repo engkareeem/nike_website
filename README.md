@@ -1,4 +1,4 @@
-# Nike Shoes Website
+# Nike Shoes Website (The repo name made by mistake :} )
 
 Welcome to the Nike Shoes website! This website is designed to showcase various Nike shoe models, allowing users to browse, explore, and purchase their favorite Nike shoes online. Below you'll find information on how to navigate the codebase and get started with development.
 
@@ -27,4 +27,4 @@ To get started with the development of the Nike Shoes website locally, follow th
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/nike-shoes-website.git
+   git clone https://github.com/engkareeem/niko_website.git
