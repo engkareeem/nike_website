@@ -8,8 +8,6 @@ Welcome to the Nike Shoes website! This website is designed to showcase various 
 ## Features
 - Browse a wide selection of Nike shoe models.
 - View detailed information and images for each shoe.
-- Add shoes to your cart and proceed to checkout.
-- User authentication and account management.
 - Responsive design for seamless experience across devices.
 
 ## Technologies Used
