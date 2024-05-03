@@ -21,3 +21,7 @@ To get started with the development of the Nike Shoes website locally, follow th
 
    ```bash
    git clone https://github.com/engkareeem/niko_website.git
+
+2. Run this command inside project folder
+   ```bash
+   npm run start
