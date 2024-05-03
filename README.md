@@ -13,13 +13,8 @@ Welcome to the Nike Shoes website! This website is designed to showcase various 
 - Responsive design for seamless experience across devices.
 
 ## Technologies Used
-- HTML5
-- CSS3 (including Flexbox and Grid for layout)
-- JavaScript (Vanilla JS for client-side scripting)
-- React.js (for building dynamic user interfaces)
-- Node.js (for server-side logic and APIs)
-- Express.js (for handling HTTP requests)
-- MongoDB (for database management)
+- ReactJS
+- Tailwind
 
 ## Getting Started
 To get started with the development of the Nike Shoes website locally, follow these steps:
