@@ -1,4 +1,4 @@
-# Nike Shoes Website (The repo name made by mistake :<)
+# Nike Shoes Website
 
 Welcome to the Nike Shoes website! This website is designed to showcase various Nike shoe models, allowing users to browse, explore, and purchase their favorite Nike shoes online. Below you'll find information on how to navigate the codebase and get started with development.
 
