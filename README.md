@@ -3,7 +3,7 @@
 Welcome to the Nike Shoes website! This website is designed to showcase various Nike shoe models, allowing users to browse, explore, and purchase their favorite Nike shoes online. Below you'll find information on how to navigate the codebase and get started with development.
 
 ## Website Link
-[Click here to visit the Nike Shoes website](https://dev.vectorz.app/)
+[Click here to visit the Nike Shoes website](https://nike.vectorz.app/)
 
 ## Features
 - Browse a wide selection of Nike shoe models.
